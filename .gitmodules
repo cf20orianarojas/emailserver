@@ -1,0 +1,4 @@
+[submodule "Projecte5 Emailserver/public"]
+	path = Projecte5 Emailserver/public
+	url = https://github.com/cf20orianarojas/cf20orianarojas.github.io.git
+	branch = main
